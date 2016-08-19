@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.0">
+  <sounds>
+    <sound name="popsound">
+      <file name="popsound.ogg" size="9299" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="bubble1">
+      <file name="bubble1.png" size="16412" />
+    </image>
+    <image name="bubble2">
+      <file name="bubble2.png" size="39472" />
+    </image>
+    <image name="sky_abstract">
+      <file name="sky_abstract.png" size="604521" />
+    </image>
+    <image name="download">
+      <file name="download.png" size="51041" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
